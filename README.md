@@ -2,6 +2,10 @@
 Este es el proyecto de prueba para el curso de Fundamentos de Programación.
 
 **Autor:** David Piedrahita Valencia
+- **Edad:** 18
 - **Lenguaje favorito:** Python
 - **Hobby:** Jugar ping pong
+- **Universidad:** UPB
+
+Aqui estoy cambiando algo, esperemos que funcione.
 
